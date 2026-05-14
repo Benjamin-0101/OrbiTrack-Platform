@@ -1,0 +1,20 @@
+# ── node ──────────────────────────────
+node_modules/
+dist/
+.env
+.env.local
+
+# ── java / maven ──────────────────────
+target/
+*.class
+*.jar
+*.war
+
+# ── IDEs ──────────────────────────────
+.idea/
+.vscode/
+*.iml
+
+# ── OS ────────────────────────────────
+.DS_Store
+Thumbs.db
